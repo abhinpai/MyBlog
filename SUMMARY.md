@@ -38,5 +38,4 @@
 
 * [Projects](personal/projects.md)
 * [About Me](personal/about-me.md)
-* [Test](personal/test.md)
 
