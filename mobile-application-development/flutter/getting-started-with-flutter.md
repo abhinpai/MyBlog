@@ -132,15 +132,15 @@ This command sets your PATH variable for the current terminal window only.
 To permanently add Flutter to your path, follow the steps below:
 
 * Determine the directory where you placed the Flutter SDK.
-* Open \(or create\) $HOME/.bash\_profile. The file path and filename might be different on your machine.
-* Add the following line and change \[PATH\_TO\_FLUTTER\_GIT\_DIRECTORY\] to be the path where you cloned Flutter’s git repo:
+* Open \(or create\) **`$HOME/.bash_profile.`** The file path and filename might be different on your machine.
+* Add the following line and change **`[PATH_TO_FLUTTER_GIT_DIRECTORY]`** to be the path where you cloned Flutter’s git repo:
 
 ```text
  export PATH="$PATH:[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin"
 ```
 
-* Run source $HOME/.bash\_profile to refresh the current window.
-* Verify that the flutter/bin directory is now in your PATH by running:
+* Run source **`$HOME/.bash_profile`** to refresh the current window.
+* Verify that the **`flutter/bin`** directory is now in your PATH by running:
 
 ```text
  echo $PATH
@@ -148,9 +148,9 @@ To permanently add Flutter to your path, follow the steps below:
 
 Congratulations! You are now ready to run Flutter commands in the Flutter Console!
 
+{% hint style="warning" %}
 NOTE: Should you at anytime require an upgrade to a latest Flutter version? [Use this link](https://flutter.dev/docs/development/tools/sdk/upgrading)
-
-
+{% endhint %}
 
 ### Run Flutter Doctor
 
@@ -214,7 +214,7 @@ To develop Flutter apps for iOS, you need a Mac with Xcode 9.0 or newer:
 
    This is the correct path for most cases, when you want to use the latest version of Xcode. If you need to use a different version, specify that path instead.
 
-3. Make sure the Xcode license agreement is signed by either opening Xcode once and confirming or running `sudo xcodebuild -license` from the command line.
+3. Make sure the Xcode license agreement is signed by either opening Xcode once and confirming or running **`sudo xcodebuild -license`** from the command line.
 
 With Xcode, you’ll be able to run Flutter apps on an iOS device or on the simulator.
 
