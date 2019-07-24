@@ -184,20 +184,20 @@ You can update your PATH variable for the current session only at the command li
 
 _The steps for modifying this variable permanently for all terminal sessions are machine-specific._
 
-1. Determine the directory where you placed the Flutter SDK. You will need this in Step 3.
-2. Open \(or create\) `$HOME/.bash_profile`. The file path and filename might be different on your machine.
-3. Add the following line and change `[PATH_TO_FLUTTER_GIT_DIRECTORY]` to be the path where you cloned Flutter’s git repo:content\_copy
+* Determine the directory where you placed the Flutter SDK.
+* Open \(or create\) `$HOME/.bash_profile`. The file path and filename might be different on your machine.
+* Add the following line and change `[PATH_TO_FLUTTER_GIT_DIRECTORY]` to be the path where you cloned Flutter’s git repo:content\_copy
 
-   ```text
-   $ export PATH="$PATH:[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin"
-   ```
+```text
+$ export PATH="$PATH:[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin"
+```
 
-4. Run `source $HOME/.bash_profile` to refresh the current window.
-5. Verify that the `flutter/bin` directory is now in your PATH by running:content\_copy
+* Run `source $HOME/.bash_profile` to refresh the current window.
+* Verify that the `flutter/bin` directory is now in your PATH by running:content\_copy
 
-   ```text
-   $ echo $PATHIos Setup
-   ```
+```text
+$ echo $PATHIos Setup
+```
 
 ### iOS Setup
 
