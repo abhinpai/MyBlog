@@ -29,6 +29,7 @@
     * [Flutter Bloc Pattern](mobile-application-development/flutter/flutter-architecture-design-practice/flutter-bloc-pattern.md)
   * [Awesome Flutter Resources](mobile-application-development/flutter/awesome-flutter-resources.md)
   * [Other Flutter Links](mobile-application-development/flutter/other-flutter-links.md)
+  * [Common Mistakes / Errors in Flutter](mobile-application-development/flutter/common-mistakes-errors-in-flutter.md)
 
 ## Tech tips and tricks
 
