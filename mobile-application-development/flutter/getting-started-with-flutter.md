@@ -252,7 +252,7 @@ VS Code is a light-weight editor with Flutter app execution and debug support.
 
 1. Invoke **View &gt; Command Palette…**.
 2. Type “doctor”, and select the **Flutter: Run Flutter Doctor**.
-3. Review the output in the **OUTPUT** pane for any issues.
+3. Review the output in the **OUTPUT** pane for any issues. 
 {% endtab %}
 
 {% tab title="Android Studio / IntelliJ" %}
