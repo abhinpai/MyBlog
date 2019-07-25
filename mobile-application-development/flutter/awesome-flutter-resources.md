@@ -2,6 +2,10 @@
 
 ## Open Source Projects
 
+{% embed url="https://github.com/mohak1283/Flutter-UIs-Collection" %}
+
+{% embed url="https://github.com/lzyy/habbit" %}
+
 {% embed url="https://github.com/scitbiz/flutter\_pokedex" %}
 
 {% embed url="https://github.com/pedrohff/flutter\_heatmap\_calendar" %}
