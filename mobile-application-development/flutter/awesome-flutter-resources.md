@@ -1,6 +1,6 @@
 # Awesome Flutter Resources
 
-## Open Source Projects
+## Open Source Projects \(Github\)
 
 {% embed url="https://github.com/mohak1283/Flutter-UIs-Collection" %}
 
