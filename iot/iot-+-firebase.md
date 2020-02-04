@@ -6,5 +6,9 @@
 
 {% embed url="https://dzone.com/articles/esp8266-esp32-with-firebase-realtime-database-iot" %}
 
+{% embed url="https://circuitdigest.com/microcontroller-projects/iot-firebase-controlled-led-using-esp8266-nodemcu" %}
+
+{% embed url="https://www.hackanons.com/2018/02/iot-with-firebase-connecting-arduino.html" %}
+
 
 
