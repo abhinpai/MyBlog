@@ -37,6 +37,7 @@
 ## Tech tips and tricks
 
 * [Test React-Redux Application](tech-tips-and-tricks/test-react-redux-application.md)
+* [GraphQL](tech-tips-and-tricks/graphql.md)
 * [Some useful links](tech-tips-and-tricks/some-useful-links.md)
 
 ## Personal
